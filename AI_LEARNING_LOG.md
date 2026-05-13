@@ -6,6 +6,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ## 2026-05-13
 
+> *Infrastructure is not separate from AI engineering — the model is only as good as its deployment.*
+
+---
+
+## 2026-05-13
+
 > *"The bitter lesson: general methods that leverage computation are ultimately the most effective."* — Rich Sutton
 
 ---
