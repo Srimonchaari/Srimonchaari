@@ -124,18 +124,18 @@ Chrome extension — transforms rough prompts into production-quality instructio
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Synapz — AI Learning Lab
+### 🎬 CineAI — Movie Recommendation System
 
-Prerequisite-aware curriculum engine — delivers one structured AI engineering concept daily with RSS-fed context from live research feeds.
+Hybrid ML recommendation engine — NCF deep learning + iALS + Sentence-BERT semantic embeddings on MovieLens-20M. Team project · ML Collaborator.
 
-`Python` `YAML` `pytest` `feedparser`
+`PyTorch` `Sentence-BERT` `iALS` `NCF/NeuMF` `Streamlit` `MPS`
 
-- Deterministic prerequisite graph traversal — no ML recommendations needed
-- Feeds from **arXiv · HuggingFace · AWS ML Blog · Google Cloud AI**
-- Three-tier fallback: strict → broader → global topic selection
-- Atomic JSON state — no database dependency
+- **Precision@10 = 0.2567** — exceeds published NCF SOTA benchmark
+- **RMSE = 0.7127** — beats Netflix Prize winner (0.8563) by 16.8%
+- **+5,034% accuracy** across 20 tracked evaluation runs (0.005 → 0.2567)
+- 20M+ ratings · 27,278 movies — full-catalog ranking, no shortcuts
 
-[→ View Repository](https://github.com/Srimonchaari/ai-learning-lab-v1)
+[→ View Repository](https://github.com/AmanAsgola/Movie-Recommendation-System)
 
 </td>
 </tr>
@@ -152,12 +152,6 @@ Prerequisite-aware curriculum engine — delivers one structured AI engineering 
 
 `Autonomous Navigation` `Gazebo Simulation` `SolidWorks` `Object Detection` `UAV` `Waypoint Control`
 
-### TIC — Autonomous Indoor Drone Navigation *(In Progress)*
-
-ORB-SLAM3 monocular SLAM combined with EKF sensor fusion feeding MAVROS waypoint control — drone records a manual flight path once and replays it fully autonomously indoors without GPS.
-
-`ROS` `PX4` `ORB-SLAM3` `EKF Sensor Fusion` `MAVROS` `Python`
-
 ---
 
 ## 🔬 Open Research Lab
@@ -167,11 +161,9 @@ ORB-SLAM3 monocular SLAM combined with EKF sensor fusion feeding MAVROS waypoint
 <!-- LAB_START -->
 | | 💡 Proposed | 🧪 Experimenting | 📊 Result |
 |---|---|---|---|
-| **1** | Does chunk size affect RAG hallucination rate? · `7 👍` | — | — |
-| **2** | Can local LLMs match GPT-4o on MEMS domain QA? · `5 👍` | ████████░░ 78% | — |
-| **3** | — | — | ✓ Keyword fallback cuts hallucinations by ~30% |
+| **—** | *No hypotheses yet — be the first to submit one.* | — | — |
 
-*Last updated: 2026-05-14 · 3 hypotheses · 2 contributors*
+*Last updated: 2026-05-14 · 0 hypotheses · 0 contributors*
 <!-- LAB_END -->
 
 **Participate — one click:**
