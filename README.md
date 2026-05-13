@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=0078D4&center=true&vCenter=true&width=650&lines=Production+LLM+Systems+Engineer;Building+RAG+%26+Agentic+Pipelines+%40+Robert+Bosch;M.Sc.+Artificial+Intelligence+%C2%B7+BTU+Cottbus;Rapid+Prototyper+%C2%B7+Cursor+%C2%B7+Jules+%C2%B7+LangGraph)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=0078D4&center=true&vCenter=true&width=680&lines=M.Sc.+AI+%C2%B7+Working+Student+%40+Robert+Bosch+GmbH;Building+RAG+%26+Agentic+Systems+in+Production;Researcher+%C2%B7+Builder+%C2%B7+Published+Author;Open+to+AI+Engineer+Roles+%C2%B7+Germany+%C2%B7+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,13 +14,25 @@
 
 ---
 
+```python
+class SrimonchaariPadmanabhanBabu:
+    status     = "M.Sc. AI Student · Brandenburg University of Technology, Cottbus"
+    current    = "Working Student AI Engineer @ Robert Bosch GmbH — MEMS Division"
+    research   = ["Autonomous Systems", "RAG Architecture", "LLM Evaluation"]
+    building   = ["Production RAG pipelines", "Agentic backends", "LLM observability"]
+    published  = "AIP Conference Proceedings 2024 · DOI: 10.1063/5.0235050"
+    open_to    = "AI Engineer / Research Engineer roles · Germany · 2026"
+```
+
+---
+
 ## About
 
-Production AI Engineer at **Robert Bosch GmbH** — shipping RAG systems and agentic pipelines for MEMS engineering workflows used by domain experts and lab engineers in manufacturing.
+M.Sc. Artificial Intelligence student at **Brandenburg University of Technology, Cottbus** (2024–present) — currently working as an AI Engineer (Working Student) at **Robert Bosch GmbH**, building production RAG systems and agentic pipelines for MEMS engineering workflows used by domain experts in manufacturing.
 
-Pursuing **M.Sc. Artificial Intelligence** at Brandenburg University of Technology, Cottbus (2024–present). Completed a Bosch internship with a formal *Zeugnis* rated outstanding across all evaluation dimensions.
+Completed a Bosch internship with a formal *Zeugnis* rated outstanding across all evaluation dimensions. Published researcher with a peer-reviewed paper in AIP Conference Proceedings 2024.
 
-🔍 Open to AI Engineer / LLM Engineer roles in Germany or remote-EU.
+🔍 Open to AI Engineer / Research Engineer roles in Germany after graduation.
 
 ---
 
@@ -47,6 +59,7 @@ Pursuing **M.Sc. Artificial Intelligence** at Brandenburg University of Technolo
 **Backend & Cloud**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
@@ -102,7 +115,7 @@ Chrome extension — transforms rough prompts into production-quality instructio
 `JavaScript` `Chrome Manifest V3` `Client-side`
 
 - **Reflect-then-Refine** two-call algorithm with local scoring
-- Supports **GPT · Claude · Gemini · DeepSeek · Nvidia NIM**
+- Supports **GPT · Gemini · DeepSeek · Nvidia NIM**
 - 100% client-side — no backend, no subscriptions, no data sent anywhere
 - Framework selector: RISEN / RTF / TAG / COSTAR per use case
 
@@ -128,7 +141,44 @@ Prerequisite-aware curriculum engine — delivers one structured AI engineering 
 </tr>
 </table>
 
-> **Published** — UAV Autonomous Cleaning System · *AIP Conference Proceedings 2024* · [DOI: 10.1063/5.0235050](https://doi.org/10.1063/5.0235050)
+---
+
+## Research
+
+### Autonomous UAV Cleaning System
+**AIP Conference Proceedings 2024** · [DOI: 10.1063/5.0235050](https://doi.org/10.1063/5.0235050)
+
+**Abstract** — Presents the design and implementation of a waypoint-navigated autonomous UAV cleaning system, validated in real flight at heights exceeding four floors. The system integrates SolidWorks-based mechanical design with Gazebo physics simulation and onboard object detection for autonomous obstacle avoidance. Flight trials confirm reliable multi-altitude trajectory execution, establishing the feasibility of UAV-assisted building maintenance in urban environments.
+
+`Autonomous Navigation` `Gazebo Simulation` `SolidWorks` `Object Detection` `UAV` `Waypoint Control`
+
+### TIC — Autonomous Indoor Drone Navigation *(In Progress)*
+
+ORB-SLAM3 monocular SLAM combined with EKF sensor fusion feeding MAVROS waypoint control — drone records a manual flight path once and replays it fully autonomously indoors without GPS.
+
+`ROS` `PX4` `ORB-SLAM3` `EKF Sensor Fusion` `MAVROS` `Python`
+
+---
+
+## 🔬 Open Research Lab
+
+*A public hypothesis tracker — powered by a Go engine and GitHub Actions. Submit a research question and watch it move through the scientific pipeline.*
+
+<!-- LAB_START -->
+| | 💡 Proposed | 🧪 Experimenting | 📊 Result |
+|---|---|---|---|
+| **1** | Does chunk size affect RAG hallucination rate? · `7 👍` | — | — |
+| **2** | Can local LLMs match GPT-4o on MEMS domain QA? · `5 👍` | ████████░░ 78% | — |
+| **3** | — | — | ✓ Keyword fallback cuts hallucinations by ~30% |
+
+*Last updated: 2026-05-14 · 3 hypotheses · 2 contributors*
+<!-- LAB_END -->
+
+**Participate — one click:**
+
+[![Submit Hypothesis](https://img.shields.io/badge/💡_Submit_Hypothesis-0078D4?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cpropose%7CYour+hypothesis+here&body=Submit+your+AI+research+hypothesis.+Just+click+%27Create+Issue%27.)
+[![Vote on Hypothesis](https://img.shields.io/badge/👍_Vote-2088FF?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cvote%7Chypothesis-id&body=Replace+%27hypothesis-id%27+with+the+number+you+want+to+upvote%2C+then+submit.)
+[![Log a Result](https://img.shields.io/badge/📊_Log_Result-28a745?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cresult%7Chypothesis-id%7Cconfirmed%7CYour+finding+here&body=Replace+fields+and+submit+to+log+an+experiment+result.)
 
 ---
 
@@ -159,6 +209,12 @@ Prerequisite-aware curriculum engine — delivers one structured AI engineering 
 [![Databricks](https://img.shields.io/badge/Databricks-Generative%20AI%20Engineer%20Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://credentials.databricks.com/search#q=generative%20ai%20engineer&t=credentials)
 [![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
 [![Salesforce](https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-00A1E0?style=flat-square&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailhead/en/credentials/specialist/agentforce-specialist/)
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Srimonchaari&theme=flat&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 

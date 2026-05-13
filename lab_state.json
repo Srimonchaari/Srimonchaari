@@ -1,0 +1,33 @@
+{
+  "hypotheses": [
+    {
+      "id": 1,
+      "text": "Does chunk size affect RAG hallucination rate?",
+      "status": "proposed",
+      "votes": 7,
+      "progress": 0,
+      "result": "",
+      "contributor": "Srimonchaari"
+    },
+    {
+      "id": 2,
+      "text": "Can local LLMs match GPT-4o on MEMS domain QA?",
+      "status": "experimenting",
+      "votes": 5,
+      "progress": 78,
+      "result": "",
+      "contributor": "Srimonchaari"
+    },
+    {
+      "id": 3,
+      "text": "Does keyword fallback reduce hallucinations in RAG?",
+      "status": "done",
+      "votes": 4,
+      "progress": 100,
+      "result": "Keyword fallback cuts hallucinations by ~30%",
+      "contributor": "Srimonchaari"
+    }
+  ],
+  "updated_at": "2026-05-14",
+  "contributors": 1
+}

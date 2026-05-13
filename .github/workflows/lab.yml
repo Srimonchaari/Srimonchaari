@@ -1,0 +1,50 @@
+name: Open Research Lab
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'lab|') || startsWith(github.event.issue.title, 'Lab|') || startsWith(github.event.issue.title, 'LAB|')
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: "1.22"
+
+      - name: Build lab engine
+        run: go build -o lab-engine ./lab/
+
+      - name: Process issue command
+        run: |
+          ./lab-engine "${{ github.event.issue.title }}" "${{ github.event.issue.user.login }}"
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "lab: ${{ github.event.issue.title }} by @${{ github.event.issue.user.login }}"
+          file_pattern: README.md lab_state.json
+
+      - name: Close and acknowledge issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `✅ Your contribution to the Open Research Lab has been recorded! The board will update within a minute.\n\n→ [View the updated board](https://github.com/${context.repo.owner}/${context.repo.repo}#-open-research-lab)`
+            });
+            await github.rest.issues.update({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed'
+            });
