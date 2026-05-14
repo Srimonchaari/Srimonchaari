@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-14
+
+> *Docker is the unit of reproducibility in modern MLOps.*
+
+---
+
 ## 2026-05-13
 
 > *Infrastructure is not separate from AI engineering — the model is only as good as its deployment.*
