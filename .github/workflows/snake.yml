@@ -14,15 +14,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Pull latest before script
+        run: git pull --rebase origin main
+
       - uses: Platane/snk@v3
         with:
           github_user_name: Srimonchaari
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Pull latest before commit
-        run: git pull --rebase origin main
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
