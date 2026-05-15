@@ -21,7 +21,11 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      - name: Pull latest before commit
+        run: git pull --rebase origin main
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update contribution snake"
           file_pattern: dist/github-snake*.svg
+          push_options: "--force-with-lease"

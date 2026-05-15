@@ -21,7 +21,11 @@ jobs:
       - name: Update pulse
         run: python scripts/pulse.py
 
+      - name: Pull latest before commit
+        run: git pull --rebase origin main
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "pulse: engineering metrics update"
           file_pattern: metrics/pulse.md
+          push_options: "--force-with-lease"

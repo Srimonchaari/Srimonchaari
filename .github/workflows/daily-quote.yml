@@ -21,7 +21,11 @@ jobs:
       - name: Append today's note
         run: python scripts/append_quote.py
 
+      - name: Pull latest before commit
+        run: git pull --rebase origin main
+
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "log: daily AI engineering note"
           file_pattern: AI_LEARNING_LOG.md
+          push_options: "--force-with-lease"
