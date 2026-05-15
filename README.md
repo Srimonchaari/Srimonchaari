@@ -199,7 +199,7 @@ Waypoint-navigated UAV validated in real flight at 4+ floor heights — SolidWor
 
 <div align="center">
 
-[![Gitlyy Contributions](https://gitlyy.vercel.app/api?username=Srimonchaari&theme=light)](https://github.com/Chintanpatel24/gitlyy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Srimonchaari&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
