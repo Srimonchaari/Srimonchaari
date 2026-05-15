@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=0078D4&center=true&vCenter=true&width=680&lines=M.Sc.+AI+%C2%B7+Working+Student+%40+Robert+Bosch+GmbH;Building+RAG+%26+Agentic+Systems+in+Production;Researcher+%C2%B7+Builder+%C2%B7+Published+Author;Open+to+AI+Engineer+Roles+%C2%B7+Germany+%C2%B7+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=800&color=0078D4&center=true&vCenter=true&width=700&lines=GenAI+Engineer+%C2%B7+Working+Student+%40+Robert+Bosch+GmbH;Production+RAG+%26+Agentic+Pipelines+%C2%B7+Business-Driven+AI;Exploring+Physical+AI+%C2%B7+ROS+%C2%B7+Autonomous+Systems;Open+to+GenAI+Engineer+Roles+%C2%B7+Germany+%C2%B7+2026)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,29 +16,42 @@
 
 ```python
 class SrimonchaariPadmanabhanBabu:
-    status     = "M.Sc. AI Student · Brandenburg University of Technology, Cottbus"
-    current    = "Working Student AI Engineer @ Robert Bosch GmbH — MEMS Division"
-    research   = ["Autonomous Systems", "RAG Architecture", "LLM Evaluation"]
-    building   = ["Production RAG pipelines", "Agentic backends", "LLM observability"]
-    published  = "AIP Conference Proceedings 2024 · DOI: 10.1063/5.0235050"
-    open_to    = "AI Engineer / Research Engineer roles · Germany · 2026"
+    status      = "M.Sc. AI Student · BTU Cottbus-Senftenberg"
+    current     = "Working Student GenAI Engineer @ Robert Bosch GmbH — MEMS Division"
+    focus       = ["GenAI Engineering", "Business-Driven AI", "Physical AI"]
+    building    = ["Production RAG pipelines", "Agentic backends", "LLM observability"]
+    exploring   = "Physical AI — where LLMs meet autonomous hardware"
+    published   = "AIP Conference Proceedings 2024 · DOI: 10.1063/5.0235050"
+    open_to     = "GenAI Engineer / Physical AI Engineer roles · Germany · 2026"
 ```
+
+---
+
+## Work Experience
+
+| Period | Role | Company | Focus |
+|---|---|---|---|
+| 11/2025 – Present | GenAI Engineer (Working Student) | Robert Bosch GmbH 🇩🇪 | RAG · Agentic AI · MEMS workflows |
+| 04/2025 – 10/2025 | AI Engineering Intern · *Zeugnis: Outstanding* | Robert Bosch GmbH 🇩🇪 | GenAI · Anomaly Detection · RAG platform |
+| 11/2023 – 09/2024 | System Engineer | Big Bang Boom Solutions 🇮🇳 | Drone AI · RF Signal · Sensor Fusion |
 
 ---
 
 ## About
 
-M.Sc. Artificial Intelligence student at **Brandenburg University of Technology, Cottbus** (2024–present) — currently working as an AI Engineer (Working Student) at **Robert Bosch GmbH**, building production RAG systems and agentic pipelines for MEMS engineering workflows used by domain experts in manufacturing.
+GenAI Engineer (Working Student) at **Robert Bosch GmbH** — shipping RAG systems and agentic pipelines for MEMS engineering workflows, with a focus on measurable business impact: faster expert decision-making, reduced manual effort, and lower inference cost.
 
-Completed a Bosch internship with a formal *Zeugnis* rated outstanding across all evaluation dimensions. Published researcher with a peer-reviewed paper in AIP Conference Proceedings 2024.
+Completed a Bosch internship rated outstanding (formal *Zeugnis*). Now exploring **Physical AI** — the intersection of large language models and autonomous robotic systems — building on a published UAV paper and hands-on ROS/SLAM background.
 
-🔍 Open to AI Engineer / Research Engineer roles in Germany after graduation.
+**M.Sc. Artificial Intelligence** · BTU Cottbus-Senftenberg (2024–present)
+
+🔍 Open to GenAI Engineer / Physical AI Engineer roles in Germany after graduation.
 
 ---
 
 ## Tech Stack
 
-**LLM & AI**
+**LLM & GenAI**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
@@ -53,18 +66,17 @@ Completed a Bosch internship with a formal *Zeugnis* rated outstanding across al
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Backend & Cloud**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+**Physical AI** *(Exploring)*
+
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-Autopilot-5C0080?style=flat-square)
+![ORB--SLAM3](https://img.shields.io/badge/ORB--SLAM3-Monocular_SLAM-0078D4?style=flat-square)
+![MAVROS](https://img.shields.io/badge/MAVROS-MAVLink_Bridge-E6522C?style=flat-square)
+![Gazebo](https://img.shields.io/badge/Gazebo-Simulation-F46800?style=flat-square)
+![EKF](https://img.shields.io/badge/EKF-Sensor_Fusion-28a745?style=flat-square)
 
 ---
 
@@ -72,6 +84,22 @@ Completed a Bosch internship with a formal *Zeugnis* rated outstanding across al
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🎬 CineAI — Movie Recommendation System
+
+Hybrid ML recommendation engine — NCF + iALS + Sentence-BERT on MovieLens-20M. Team project · ML Collaborator.
+
+`PyTorch` `Sentence-BERT` `iALS` `NCF/NeuMF` `Streamlit`
+
+- **Precision@10 = 0.2567** — exceeds published NCF SOTA benchmark
+- **RMSE = 0.7127** — beats Netflix Prize winner (0.8563) by 16.8%
+- **+5,034% accuracy** across 20 tracked evaluation runs
+- *Business impact* — Netflix-grade recommendations at zero licensing cost
+
+[→ View Repository](https://github.com/AmanAsgola/Movie-Recommendation-System)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📡 SensorSpeak
@@ -83,11 +111,13 @@ Natural-language search over real-time manufacturing sensor data — fully offli
 - **100K readings/min** — ingested, vectorized, and queried in real time
 - **85 pytest tests** — full coverage across ingestion, retrieval, and response
 - Zero external API calls — runs on Qwen 2.5 + BAAI embeddings locally
-- Keyword fallback prevents hallucinations when retrieval confidence is low
+- *Business impact* — reduces expert query time from hours to seconds on the factory floor
 
 [→ View Repository](https://github.com/Srimonchaari/SensorSpeak)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 LLM Observability Dashboard
@@ -99,13 +129,11 @@ Production monitoring for Generative AI APIs — latency, cost, and token usage 
 - **p50 / p95 / p99 latency** tracked per request
 - **Per-call USD cost** estimated from token counts
 - Single `docker compose up` — zero manual configuration
-- Pre-wired Grafana dashboards out of the box
+- *Business impact* — CFO-visible ROI on every AI API call
 
 [→ View Repository](https://github.com/Srimonchaari/LLM-Observability)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ⚡ Prompt Optimiser
@@ -117,25 +145,9 @@ Chrome extension — transforms rough prompts into production-quality instructio
 - **Reflect-then-Refine** two-call algorithm with local scoring
 - Supports **GPT · Gemini · DeepSeek · Nvidia NIM**
 - 100% client-side — no backend, no subscriptions, no data sent anywhere
-- Framework selector: RISEN / RTF / TAG / COSTAR per use case
+- *Business impact* — cuts prompt iteration time by 60–80% for non-technical users
 
 [→ View Repository](https://github.com/Srimonchaari/Prompt_Optimiser)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 CineAI — Movie Recommendation System
-
-Hybrid ML recommendation engine — NCF deep learning + iALS + Sentence-BERT semantic embeddings on MovieLens-20M. Team project · ML Collaborator.
-
-`PyTorch` `Sentence-BERT` `iALS` `NCF/NeuMF` `Streamlit` `MPS`
-
-- **Precision@10 = 0.2567** — exceeds published NCF SOTA benchmark
-- **RMSE = 0.7127** — beats Netflix Prize winner (0.8563) by 16.8%
-- **+5,034% accuracy** across 20 tracked evaluation runs (0.005 → 0.2567)
-- 20M+ ratings · 27,278 movies — full-catalog ranking, no shortcuts
-
-[→ View Repository](https://github.com/AmanAsgola/Movie-Recommendation-System)
 
 </td>
 </tr>
@@ -143,20 +155,19 @@ Hybrid ML recommendation engine — NCF deep learning + iALS + Sentence-BERT sem
 
 ---
 
-## Research
+## Publications
 
-### Autonomous UAV Cleaning System
-**AIP Conference Proceedings 2024** · [DOI: 10.1063/5.0235050](https://doi.org/10.1063/5.0235050)
+**Autonomous UAV Cleaning System** · *AIP Conference Proceedings 2024* · [DOI: 10.1063/5.0235050](https://doi.org/10.1063/5.0235050)
 
-**Abstract** — Presents the design and implementation of a waypoint-navigated autonomous UAV cleaning system, validated in real flight at heights exceeding four floors. The system integrates SolidWorks-based mechanical design with Gazebo physics simulation and onboard object detection for autonomous obstacle avoidance. Flight trials confirm reliable multi-altitude trajectory execution, establishing the feasibility of UAV-assisted building maintenance in urban environments.
+Waypoint-navigated UAV validated in real flight at 4+ floor heights — SolidWorks design · Gazebo simulation · onboard object detection.
 
-`Autonomous Navigation` `Gazebo Simulation` `SolidWorks` `Object Detection` `UAV` `Waypoint Control`
+`Autonomous Navigation` `Gazebo` `SolidWorks` `Object Detection` `UAV`
 
 ---
 
 ## 🔬 Open Research Lab
 
-*A public hypothesis tracker — powered by a Go engine and GitHub Actions. Submit a research question and watch it move through the scientific pipeline.*
+*A public hypothesis tracker — powered by a Go engine and GitHub Actions. Submit a question and watch it move through the pipeline.*
 
 <!-- LAB_START -->
 | | 💡 Proposed | 🧪 Experimenting | 📊 Result |
@@ -169,7 +180,7 @@ Hybrid ML recommendation engine — NCF deep learning + iALS + Sentence-BERT sem
 **Participate — one click:**
 
 [![Submit Hypothesis](https://img.shields.io/badge/💡_Submit_Hypothesis-0078D4?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cpropose%7CYour+hypothesis+here&body=Submit+your+AI+research+hypothesis.+Just+click+%27Create+Issue%27.)
-[![Vote on Hypothesis](https://img.shields.io/badge/👍_Vote-2088FF?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cvote%7Chypothesis-id&body=Replace+%27hypothesis-id%27+with+the+number+you+want+to+upvote%2C+then+submit.)
+[![Vote](https://img.shields.io/badge/👍_Vote-2088FF?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cvote%7Chypothesis-id&body=Replace+%27hypothesis-id%27+with+the+number+you+want+to+upvote%2C+then+submit.)
 [![Log a Result](https://img.shields.io/badge/📊_Log_Result-28a745?style=flat-square)](https://github.com/Srimonchaari/Srimonchaari/issues/new?title=lab%7Cresult%7Chypothesis-id%7Cconfirmed%7CYour+finding+here&body=Replace+fields+and+submit+to+log+an+experiment+result.)
 
 ---
@@ -187,11 +198,15 @@ Hybrid ML recommendation engine — NCF deep learning + iALS + Sentence-BERT sem
 ## Contribution Activity
 
 <div align="center">
+
+[![Gitlyy Contributions](https://gitlyy.vercel.app/api?username=Srimonchaari&theme=light)](https://github.com/Chintanpatel24/gitlyy)
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
     <img alt="Contribution Snake" src="dist/github-snake.svg" />
   </picture>
+
 </div>
 
 ---

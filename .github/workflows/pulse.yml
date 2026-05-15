@@ -1,15 +1,15 @@
-name: Daily AI Engineering Note
+name: Profile Pulse
 
 on:
   schedule:
-    - cron: "0 7,13,19 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  daily-note:
+  pulse:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -18,10 +18,10 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Append today's note
-        run: python scripts/append_quote.py
+      - name: Update pulse
+        run: python scripts/pulse.py
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "log: daily AI engineering note"
-          file_pattern: AI_LEARNING_LOG.md
+          commit_message: "pulse: engineering metrics update"
+          file_pattern: metrics/pulse.md
