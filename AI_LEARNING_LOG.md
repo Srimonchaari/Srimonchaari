@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-16
+
+> *A Grafana dashboard nobody monitors is just decoration.*
+
+---
+
 ## 2026-05-15
 
 > *Prometheus metrics answer what is happening. Logs answer why it happened.*
