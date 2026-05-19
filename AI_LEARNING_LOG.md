@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-19
+
+> *Kubernetes autoscaling for inference workloads requires GPU-aware scheduling.*
+
+---
+
 ## 2026-05-18
 
 > *MLflow tracks experiments so you can reproduce the result that accidentally worked.*
