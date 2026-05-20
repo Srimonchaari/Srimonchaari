@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-20
+
+> *Cold start latency in serverless inference can be worse than keeping a warm instance running.*
+
+---
+
 ## 2026-05-19
 
 > *Kubernetes autoscaling for inference workloads requires GPU-aware scheduling.*
