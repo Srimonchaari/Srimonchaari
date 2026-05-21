@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-21
+
+> *FastAPI is the right choice for ML inference APIs — async-first, type-safe, and auto-documented.*
+
+---
+
 ## 2026-05-20
 
 > *Cold start latency in serverless inference can be worse than keeping a warm instance running.*
