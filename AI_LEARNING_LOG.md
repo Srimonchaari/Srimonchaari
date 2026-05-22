@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-22
+
+> *Token cost is a first-class metric, not an afterthought.*
+
+---
+
 ## 2026-05-21
 
 > *FastAPI is the right choice for ML inference APIs — async-first, type-safe, and auto-documented.*
