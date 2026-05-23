@@ -4,6 +4,7 @@ Auto-updated every 2 hours via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-05-23 | Day 600 | RAG pipeline latency reduced by 40% via chunk-size tuning |
 | 2026-05-22 | Day 599 | NCF model: Precision@10 = 0.2567, beats published SOTA benchmark |
 | 2026-05-21 | Day 598 | SensorSpeak ingestion: 100K sensor readings/min, p95 < 40ms |
 | 2026-05-20 | Day 597 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
