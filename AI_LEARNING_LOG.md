@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-23
+
+> *The p99 latency is the experience of your worst 1% of users — and often your loudest complainers.*
+
+---
+
 ## 2026-05-22
 
 > *Token cost is a first-class metric, not an afterthought.*
