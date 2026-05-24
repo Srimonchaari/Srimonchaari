@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-24
+
+> *Semantic caching reduces LLM API costs by serving cached responses to near-duplicate queries.*
+
+---
+
 ## 2026-05-23
 
 > *The p99 latency is the experience of your worst 1% of users — and often your loudest complainers.*
