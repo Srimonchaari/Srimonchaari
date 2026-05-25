@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-25
+
+> *A retrieval system with no reranker is leaving precision on the table.*
+
+---
+
 ## 2026-05-24
 
 > *Semantic caching reduces LLM API costs by serving cached responses to near-duplicate queries.*
