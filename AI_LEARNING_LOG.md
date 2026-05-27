@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-27
+
+> *Hybrid search — dense vectors + BM25 — outperforms either alone for most retrieval tasks.*
+
+---
+
 ## 2026-05-26
 
 > *FAISS is fast but HNSW indexes scale better for approximate nearest neighbor at production volume.*
