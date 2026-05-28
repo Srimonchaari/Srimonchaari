@@ -4,6 +4,7 @@ Auto-updated every 2 hours via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-05-28 | Day 605 | Query rewriting reduced LLM hallucination rate by ~18% |
 | 2026-05-27 | Day 604 | Deployed Prometheus metrics for 4 GenAI API endpoints |
 | 2026-05-26 | Day 603 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-05-25 | Day 602 | Agentic workflow reduced manual MEMS classification time by 3h/day |
