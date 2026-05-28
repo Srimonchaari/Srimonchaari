@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-28
+
+> *The embedding model matters as much as the generation model in a RAG system.*
+
+---
+
 ## 2026-05-27
 
 > *Hybrid search — dense vectors + BM25 — outperforms either alone for most retrieval tasks.*
