@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-29
+
+> *Chunking with overlap prevents context fragmentation at chunk boundaries.*
+
+---
+
 ## 2026-05-28
 
 > *The embedding model matters as much as the generation model in a RAG system.*
