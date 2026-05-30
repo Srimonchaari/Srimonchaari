@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-05-30
+
+> *Metadata filtering cuts retrieval search space before vector similarity — always add it.*
+
+---
+
 ## 2026-05-29
 
 > *Chunking with overlap prevents context fragmentation at chunk boundaries.*
