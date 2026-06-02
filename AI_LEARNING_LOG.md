@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-02
+
+> *Tool call validation should happen on the schema, not on the model's output text.*
+
+---
+
 ## 2026-06-01
 
 > *Multi-agent systems fail at the handoff. Define the interface before the agents.*
