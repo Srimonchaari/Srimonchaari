@@ -4,6 +4,7 @@ Auto-updated every 2 hours via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-06-02 | Day 610 | Grafana dashboard live: cost-per-query visible to stakeholders |
 | 2026-06-01 | Day 609 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
 | 2026-05-31 | Day 608 | MLflow experiment tracking: 47 runs logged this sprint |
 | 2026-05-30 | Day 607 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
