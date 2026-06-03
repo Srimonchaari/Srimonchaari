@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-03
+
+> *An agentic loop without a termination condition is a production incident waiting to happen.*
+
+---
+
 ## 2026-06-02
 
 > *Tool call validation should happen on the schema, not on the model's output text.*
