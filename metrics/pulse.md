@@ -4,6 +4,7 @@ Auto-updated every 2 hours via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-06-04 | Day 612 | Vector DB index rebuilt: query time dropped from 480ms to 95ms |
 | 2026-06-03 | Day 611 | LangGraph stateful agent handles 6-step MEMS diagnostic flow |
 | 2026-06-02 | Day 610 | Grafana dashboard live: cost-per-query visible to stakeholders |
 | 2026-06-01 | Day 609 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
