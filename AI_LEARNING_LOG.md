@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-04
+
+> *Structured output (JSON mode) is more reliable than parsing free-text from an LLM.*
+
+---
+
 ## 2026-06-03
 
 > *An agentic loop without a termination condition is a production incident waiting to happen.*
