@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-05
+
+> *System prompts are not immutable — version-control them like code.*
+
+---
+
 ## 2026-06-04
 
 > *Structured output (JSON mode) is more reliable than parsing free-text from an LLM.*
