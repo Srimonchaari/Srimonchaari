@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-06
+
+> *The model is not the product. The product is everything the model does inside your system.*
+
+---
+
 ## 2026-06-05
 
 > *System prompts are not immutable — version-control them like code.*
