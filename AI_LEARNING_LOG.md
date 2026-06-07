@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-07
+
+> *Few-shot examples in a prompt are the fastest form of fine-tuning with no training cost.*
+
+---
+
 ## 2026-06-06
 
 > *The model is not the product. The product is everything the model does inside your system.*
