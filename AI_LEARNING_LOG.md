@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-08
+
+> *Instruction tuning is supervised fine-tuning on (instruction, response) pairs — not magic.*
+
+---
+
 ## 2026-06-07
 
 > *Few-shot examples in a prompt are the fastest form of fine-tuning with no training cost.*
