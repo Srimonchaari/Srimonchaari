@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-09
+
+> *LoRA fine-tuning reduces trainable parameters by injecting low-rank matrices — same quality, less compute.*
+
+---
+
 ## 2026-06-08
 
 > *Instruction tuning is supervised fine-tuning on (instruction, response) pairs — not magic.*
