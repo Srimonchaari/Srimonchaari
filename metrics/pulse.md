@@ -4,6 +4,7 @@ Auto-updated every 2 hours via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-06-09 | Day 617 | Docker compose stack: one-command deploy for full observability stack |
 | 2026-06-08 | Day 616 | pytest suite: 85 tests, 0 failures, 94% branch coverage |
 | 2026-06-07 | Day 615 | Sentence-BERT fine-tune: domain vocab coverage +23% on MEMS corpus |
 | 2026-06-06 | Day 614 | Ollama local inference: zero external API calls for dev environment |
