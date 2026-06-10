@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-10
+
+> *RLHF without a good reward model is worse than supervised fine-tuning alone.*
+
+---
+
 ## 2026-06-09
 
 > *LoRA fine-tuning reduces trainable parameters by injecting low-rank matrices — same quality, less compute.*
