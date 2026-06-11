@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-11
+
+> *Constitutional AI replaces human labelers with a set of principles the model uses to self-critique.*
+
+---
+
 ## 2026-06-10
 
 > *RLHF without a good reward model is worse than supervised fine-tuning alone.*
