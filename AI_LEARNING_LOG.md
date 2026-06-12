@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-12
+
+> *Quantization trades precision for speed — 4-bit inference is often indistinguishable from 16-bit.*
+
+---
+
 ## 2026-06-11
 
 > *Constitutional AI replaces human labelers with a set of principles the model uses to self-critique.*
