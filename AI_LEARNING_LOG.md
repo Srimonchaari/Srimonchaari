@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-13
+
+> *Flash Attention rewrites the attention kernel to reduce memory usage by processing in blocks.*
+
+---
+
 ## 2026-06-12
 
 > *Quantization trades precision for speed — 4-bit inference is often indistinguishable from 16-bit.*
