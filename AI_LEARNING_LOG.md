@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-14
+
+> *Speculative decoding uses a smaller draft model to generate candidate tokens, then verifies in parallel.*
+
+---
+
 ## 2026-06-13
 
 > *Flash Attention rewrites the attention kernel to reduce memory usage by processing in blocks.*
