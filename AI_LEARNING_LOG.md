@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-15
+
+> *Model distillation compresses a large model's knowledge into a smaller one via soft labels.*
+
+---
+
 ## 2026-06-14
 
 > *Speculative decoding uses a smaller draft model to generate candidate tokens, then verifies in parallel.*
