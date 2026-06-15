@@ -17,7 +17,7 @@ jobs:
       - name: Pull latest before script
         run: git pull --rebase origin main
 
-      - uses: Platane/snk@v3
+      - uses: Platane/snk-action@v3
         with:
           github_user_name: Srimonchaari
           outputs: |
