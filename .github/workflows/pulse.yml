@@ -2,7 +2,19 @@ name: Profile Pulse
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    # Fires at varied hours — script randomly skips ~40% of runs for organic pattern
+    - cron: "0 6 * * *"
+    - cron: "0 8 * * *"
+    - cron: "0 9 * * 1-5"
+    - cron: "0 10 * * *"
+    - cron: "0 11 * * 1-5"
+    - cron: "0 13 * * *"
+    - cron: "0 14 * * 1-5"
+    - cron: "0 15 * * 1-5"
+    - cron: "0 16 * * *"
+    - cron: "0 17 * * 1-5"
+    - cron: "0 19 * * *"
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 permissions:

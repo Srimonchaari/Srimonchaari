@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Prepends today's AI/ML engineering note to AI_LEARNING_LOG.md, rotating by day-of-year."""
 
+import random
+import sys
 from datetime import date
 
 NOTES = [
@@ -118,8 +120,17 @@ LOG_FILE = "AI_LEARNING_LOG.md"
 HEADER = "# AI Engineering Log\n\nOne note per day — updated automatically via GitHub Actions.\n\n---\n\n"
 
 
+# Skip probability per day-of-week (Mon=0 … Sun=6)
+_SKIP_CHANCE = [0.3, 0.3, 0.35, 0.3, 0.4, 0.65, 0.70]
+
+
 def main() -> None:
     today = date.today()
+    rng = random.Random(today.toordinal() + 1)  # +1 to differ from pulse.py seed
+    if rng.random() < _SKIP_CHANCE[today.weekday()]:
+        print("Skipping this run for organic variation.")
+        sys.exit(0)
+
     note = NOTES[today.timetuple().tm_yday % len(NOTES)]
     entry = f"## {today.isoformat()}\n\n> *{note}*\n\n---\n\n"
 

@@ -2,7 +2,10 @@ name: Daily AI Engineering Note
 
 on:
   schedule:
-    - cron: "0 7,13,19 * * *"
+    # Morning, midday, evening — script randomly skips some runs for organic variation
+    - cron: "30 7 * * *"
+    - cron: "30 12 * * 1-5"
+    - cron: "30 18 * * *"
   workflow_dispatch:
 
 permissions:

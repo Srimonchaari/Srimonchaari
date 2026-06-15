@@ -1,6 +1,7 @@
 import datetime
 import os
 import random
+import sys
 
 START_DATE = datetime.date(2024, 10, 1)  # M.Sc. start date
 
@@ -37,8 +38,20 @@ STATS = [
     "NCF model: Precision@10 = 0.2567, beats published SOTA benchmark",
 ]
 
+# Skip probability per day-of-week (Mon=0 … Sun=6)
+# Weekdays active, weekends quiet
+_SKIP_CHANCE = [0.3, 0.3, 0.35, 0.3, 0.4, 0.65, 0.70]
+
+
 def main():
     today = datetime.date.today()
+
+    # Seed with date so all runs on the same day make the same skip decision
+    rng = random.Random(today.toordinal())
+    if rng.random() < _SKIP_CHANCE[today.weekday()]:
+        print("Skipping this run for organic variation.")
+        sys.exit(0)
+
     day_num = (today - START_DATE).days + 1
     stat = STATS[day_num % len(STATS)]
     iso = today.isoformat()
@@ -49,7 +62,7 @@ def main():
 
     header = (
         "# Engineering Pulse\n\n"
-        "Auto-updated every 2 hours via GitHub Actions.\n\n"
+        "Auto-updated via GitHub Actions.\n\n"
         "| Date | Day | Metric / Observation |\n"
         "|---|---|---|\n"
     )
@@ -59,7 +72,6 @@ def main():
         with open("metrics/pulse.md", "r") as f:
             existing = f.read()
 
-    # Extract existing data rows (skip header lines)
     rows = []
     in_table = False
     for line in existing.splitlines():
@@ -80,6 +92,7 @@ def main():
         f.write(header)
         for row in rows:
             f.write(row + "\n")
+
 
 if __name__ == "__main__":
     main()
