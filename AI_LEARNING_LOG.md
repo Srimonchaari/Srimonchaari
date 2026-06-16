@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-16
+
+> *Mixture of experts routes each token to a subset of parameters — more capacity, same inference cost.*
+
+---
+
 ## 2026-06-15
 
 > *Model distillation compresses a large model's knowledge into a smaller one via soft labels.*
