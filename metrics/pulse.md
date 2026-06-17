@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-06-17 | Day 625 | LLM output structured with Pydantic: 0 parse errors in 500 calls |
 | 2026-06-16 | Day 624 | RAG context window optimised: 3-chunk window beats 5-chunk by 6% F1 |
 | 2026-06-15 | Day 623 | CI pipeline added: lint + type-check + pytest on every PR |
 | 2026-06-14 | Day 622 | FAISS index sharding: memory footprint reduced by 35% |
