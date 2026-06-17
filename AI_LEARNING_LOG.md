@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-17
+
+> *Benchmarks measure models in controlled conditions. Production measures them in real ones.*
+
+---
+
 ## 2026-06-16
 
 > *Mixture of experts routes each token to a subset of parameters — more capacity, same inference cost.*
