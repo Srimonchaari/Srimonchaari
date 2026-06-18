@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-18
+
+> *MMLU covers 57 academic subjects — high scores do not guarantee useful real-world performance.*
+
+---
+
 ## 2026-06-17
 
 > *Benchmarks measure models in controlled conditions. Production measures them in real ones.*
