@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-19
+
+> *HumanEval tests code generation on 164 hand-crafted programming problems.*
+
+---
+
 ## 2026-06-18
 
 > *MMLU covers 57 academic subjects — high scores do not guarantee useful real-world performance.*
