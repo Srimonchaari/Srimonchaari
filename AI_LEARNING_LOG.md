@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-20
+
+> *TruthfulQA measures whether a model generates truthful answers to questions humans often get wrong.*
+
+---
+
 ## 2026-06-19
 
 > *HumanEval tests code generation on 164 hand-crafted programming problems.*
