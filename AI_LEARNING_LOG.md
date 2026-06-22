@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-22
+
+> *Evaluation datasets leak into training data — always maintain a held-out test set you never publish.*
+
+---
+
 ## 2026-06-20
 
 > *TruthfulQA measures whether a model generates truthful answers to questions humans often get wrong.*
