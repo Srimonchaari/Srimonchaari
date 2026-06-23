@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-06-23 | Day 631 | LLM token cost cut 28% with prompt compression techniques |
 | 2026-06-20 | Day 628 | SensorSpeak ingestion: 100K sensor readings/min, p95 < 40ms |
 | 2026-06-19 | Day 627 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
 | 2026-06-18 | Day 626 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
