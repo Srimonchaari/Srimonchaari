@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-23
+
+> *A/B testing LLM outputs requires human preference labels, not just automated metrics.*
+
+---
+
 ## 2026-06-22
 
 > *Evaluation datasets leak into training data — always maintain a held-out test set you never publish.*
