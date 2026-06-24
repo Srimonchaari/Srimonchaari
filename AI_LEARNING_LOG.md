@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-24
+
+> *LLM-as-a-judge can evaluate model outputs at scale — but the judge model has its own biases.*
+
+---
+
 ## 2026-06-23
 
 > *A/B testing LLM outputs requires human preference labels, not just automated metrics.*
