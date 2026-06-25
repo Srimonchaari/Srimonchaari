@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-25
+
+> *Exact match is the weakest evaluation metric for generative systems. Use semantic similarity.*
+
+---
+
 ## 2026-06-24
 
 > *LLM-as-a-judge can evaluate model outputs at scale — but the judge model has its own biases.*
