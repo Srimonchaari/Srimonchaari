@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-26
+
+> *ROUGE measures recall of n-gram overlap — useful for summarization, misleading for reasoning tasks.*
+
+---
+
 ## 2026-06-25
 
 > *Exact match is the weakest evaluation metric for generative systems. Use semantic similarity.*
