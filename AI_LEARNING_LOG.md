@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-06-30
+
+> *Safety is not a post-deployment concern — it is an architectural constraint from day one.*
+
+---
+
 ## 2026-06-29
 
 > *Calibration means a model that says 70% confident should be right 70% of the time.*
