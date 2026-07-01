@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-01
+
+> *Prompt injection is the SQL injection of LLM systems — never trust unsanitized user input in a prompt.*
+
+---
+
 ## 2026-06-30
 
 > *Safety is not a post-deployment concern — it is an architectural constraint from day one.*
