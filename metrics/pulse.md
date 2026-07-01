@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-07-01 | Day 639 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
 | 2026-06-30 | Day 638 | MLflow experiment tracking: 47 runs logged this sprint |
 | 2026-06-29 | Day 637 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-06-28 | Day 636 | FastAPI inference endpoint: p95 latency < 320ms under load |
