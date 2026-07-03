@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-03
+
+> *Jailbreaks exploit the tension between instruction following and safety alignment.*
+
+---
+
 ## 2026-07-02
 
 > *Output filtering is a last line of defense, not a primary safety mechanism.*
