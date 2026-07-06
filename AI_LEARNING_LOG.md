@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-06
+
+> *PII in training data surfaces in model outputs — scrub before training, not after.*
+
+---
+
 ## 2026-07-03
 
 > *Jailbreaks exploit the tension between instruction following and safety alignment.*
