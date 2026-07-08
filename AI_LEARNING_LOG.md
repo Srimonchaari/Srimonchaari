@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-08
+
+> *Digital twins in manufacturing create a live model of physical systems — LLMs make them queryable.*
+
+---
+
 ## 2026-07-06
 
 > *PII in training data surfaces in model outputs — scrub before training, not after.*
