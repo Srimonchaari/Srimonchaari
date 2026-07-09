@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-09
+
+> *Predictive maintenance with sensor data + LLM summarization reduces unplanned downtime.*
+
+---
+
 ## 2026-07-08
 
 > *Digital twins in manufacturing create a live model of physical systems — LLMs make them queryable.*
