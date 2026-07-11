@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-11
+
+> *Edge inference brings the model to the sensor — critical when network latency is unacceptable.*
+
+---
+
 ## 2026-07-10
 
 > *MEMS sensors generate high-frequency signals — anomaly detection requires signal processing before LLM input.*
