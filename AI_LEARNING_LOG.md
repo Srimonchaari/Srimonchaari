@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-12
+
+> *Sensor fusion combines IMU, camera, and optical flow — EKF is the standard filter for localization.*
+
+---
+
 ## 2026-07-11
 
 > *Edge inference brings the model to the sensor — critical when network latency is unacceptable.*
