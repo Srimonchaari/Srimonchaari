@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-13
+
+> *ROS (Robot Operating System) is the messaging backbone of autonomous systems research.*
+
+---
+
 ## 2026-07-12
 
 > *Sensor fusion combines IMU, camera, and optical flow — EKF is the standard filter for localization.*
