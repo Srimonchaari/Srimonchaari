@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-14
+
+> *SLAM (Simultaneous Localization and Mapping) solves navigation without GPS — ORB-SLAM3 is state of the art.*
+
+---
+
 ## 2026-07-13
 
 > *ROS (Robot Operating System) is the messaging backbone of autonomous systems research.*
