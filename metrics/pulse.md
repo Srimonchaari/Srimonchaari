@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-07-15 | Day 653 | CI pipeline added: lint + type-check + pytest on every PR |
 | 2026-07-14 | Day 652 | FAISS index sharding: memory footprint reduced by 35% |
 | 2026-07-13 | Day 651 | Streaming response added: perceived latency cut by ~60% for users |
 | 2026-07-12 | Day 650 | Prompt template versioning: 12 variants tracked, top-3 promoted |
