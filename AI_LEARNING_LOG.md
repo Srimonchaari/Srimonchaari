@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-15
+
+> *MAVLink is the lightweight protocol connecting flight controllers to companion computers.*
+
+---
+
 ## 2026-07-14
 
 > *SLAM (Simultaneous Localization and Mapping) solves navigation without GPS — ORB-SLAM3 is state of the art.*
