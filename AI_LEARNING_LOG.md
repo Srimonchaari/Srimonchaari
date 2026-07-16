@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-16
+
+> *PX4 is the open-source autopilot stack powering most research-grade autonomous drones.*
+
+---
+
 ## 2026-07-15
 
 > *MAVLink is the lightweight protocol connecting flight controllers to companion computers.*
