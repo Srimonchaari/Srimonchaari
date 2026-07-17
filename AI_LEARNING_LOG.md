@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-17
+
+> *Autonomous mission execution requires deterministic waypoint logic — not probabilistic generation.*
+
+---
+
 ## 2026-07-16
 
 > *PX4 is the open-source autopilot stack powering most research-grade autonomous drones.*
