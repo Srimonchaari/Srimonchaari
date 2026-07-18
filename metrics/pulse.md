@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-07-18 | Day 656 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
 | 2026-07-17 | Day 655 | LLM output structured with Pydantic: 0 parse errors in 500 calls |
 | 2026-07-16 | Day 654 | RAG context window optimised: 3-chunk window beats 5-chunk by 6% F1 |
 | 2026-07-15 | Day 653 | CI pipeline added: lint + type-check + pytest on every PR |
