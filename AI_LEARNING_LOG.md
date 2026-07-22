@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-22
+
+> *Client-side AI keeps user data local — a privacy architecture decision, not just a convenience.*
+
+---
+
 ## 2026-07-20
 
 > *Chrome Manifest V3 moves to service workers instead of background pages — offline-first design matters.*
