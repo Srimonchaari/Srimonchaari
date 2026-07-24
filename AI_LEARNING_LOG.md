@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-24
+
+> *YAML-defined curriculum graphs are human-readable, version-controllable, and debuggable.*
+
+---
+
 ## 2026-07-22
 
 > *Client-side AI keeps user data local — a privacy architecture decision, not just a convenience.*
