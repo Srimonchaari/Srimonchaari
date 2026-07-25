@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-07-25 | Day 663 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-07-23 | Day 661 | LLM token cost cut 28% with prompt compression techniques |
 | 2026-07-21 | Day 659 | NCF model: Precision@10 = 0.2567, beats published SOTA benchmark |
 | 2026-07-18 | Day 656 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
