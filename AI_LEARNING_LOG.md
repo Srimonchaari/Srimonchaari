@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-27
+
+> *Cron schedules in GitHub Actions use UTC — always convert to your local timezone when debugging.*
+
+---
+
 ## 2026-07-24
 
 > *YAML-defined curriculum graphs are human-readable, version-controllable, and debuggable.*
