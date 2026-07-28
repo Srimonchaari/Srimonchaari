@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-07-28 | Day 666 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-07-27 | Day 665 | Query rewriting reduced LLM hallucination rate by ~18% |
 | 2026-07-25 | Day 663 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-07-23 | Day 661 | LLM token cost cut 28% with prompt compression techniques |
