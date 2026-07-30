@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-30
+
+> *The best documentation explains why, not what. Code already shows what.*
+
+---
+
 ## 2026-07-27
 
 > *Cron schedules in GitHub Actions use UTC — always convert to your local timezone when debugging.*
