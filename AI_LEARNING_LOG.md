@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-07-31
+
+> *Write tests before you refactor — tests are the specification, not the implementation.*
+
+---
+
 ## 2026-07-30
 
 > *The best documentation explains why, not what. Code already shows what.*
