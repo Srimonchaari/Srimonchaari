@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-02
+
+> *Technical debt is a loan with compounding interest. Pay it down before it compounds.*
+
+---
+
 ## 2026-08-01
 
 > *Code review is the highest-leverage activity on an engineering team. Do it slowly.*
