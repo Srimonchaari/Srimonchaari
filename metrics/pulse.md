@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-08-03 | Day 672 | Vector DB index rebuilt: query time dropped from 480ms to 95ms |
 | 2026-08-02 | Day 671 | LangGraph stateful agent handles 6-step MEMS diagnostic flow |
 | 2026-07-31 | Day 669 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
 | 2026-07-28 | Day 666 | FastAPI inference endpoint: p95 latency < 320ms under load |
