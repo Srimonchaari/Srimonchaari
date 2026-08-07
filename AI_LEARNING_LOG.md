@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-07
+
+> *Hallucination is a retrieval failure, not a model failure. Fix the retrieval. — LLM engineering principle*
+
+---
+
 ## 2026-08-06
 
 > *RAG is not a feature — it's an architecture decision that determines what your model can know at inference time.*
