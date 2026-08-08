@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-08-08 | Day 677 | Docker compose stack: one-command deploy for full observability stack |
 | 2026-08-07 | Day 676 | pytest suite: 85 tests, 0 failures, 94% branch coverage |
 | 2026-08-04 | Day 673 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
 | 2026-08-03 | Day 672 | Vector DB index rebuilt: query time dropped from 480ms to 95ms |
