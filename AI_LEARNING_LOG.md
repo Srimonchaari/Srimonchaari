@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-08
+
+> *The best model is the one you can actually deploy and monitor. — MLOps axiom*
+
+---
+
 ## 2026-08-07
 
 > *Hallucination is a retrieval failure, not a model failure. Fix the retrieval. — LLM engineering principle*
