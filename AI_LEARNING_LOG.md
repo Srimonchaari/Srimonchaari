@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-10
+
+> *Scaling laws suggest that larger models trained on more data are predictably better. — Kaplan et al., 2020*
+
+---
+
 ## 2026-08-08
 
 > *The best model is the one you can actually deploy and monitor. — MLOps axiom*
