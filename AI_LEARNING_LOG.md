@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-11
+
+> *Evaluation is the hardest part of building LLM systems. Without it, you're flying blind.*
+
+---
+
 ## 2026-08-10
 
 > *Scaling laws suggest that larger models trained on more data are predictably better. — Kaplan et al., 2020*
