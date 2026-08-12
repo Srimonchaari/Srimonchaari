@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-12
+
+> *Prompt engineering is context engineering — every token in the context window is a decision.*
+
+---
+
 ## 2026-08-11
 
 > *Evaluation is the hardest part of building LLM systems. Without it, you're flying blind.*
