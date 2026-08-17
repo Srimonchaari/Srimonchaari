@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-17
+
+> *Vector similarity is approximate; always validate retrieved context before grounding a response.*
+
+---
+
 ## 2026-08-12
 
 > *Prompt engineering is context engineering — every token in the context window is a decision.*
