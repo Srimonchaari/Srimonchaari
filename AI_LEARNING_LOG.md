@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-21
+
+> *Fine-tuning without evaluation is wishful thinking.*
+
+---
+
 ## 2026-08-17
 
 > *Vector similarity is approximate; always validate retrieved context before grounding a response.*
