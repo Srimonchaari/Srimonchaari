@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-23
+
+> *Context length is not free — longer contexts increase latency and cost nonlinearly.*
+
+---
+
 ## 2026-08-21
 
 > *Fine-tuning without evaluation is wishful thinking.*
