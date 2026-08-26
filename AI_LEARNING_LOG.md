@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-26
+
+> *Grounding prevents hallucination. Every factual claim in a response should trace to a retrieved source.*
+
+---
+
 ## 2026-08-23
 
 > *Context length is not free — longer contexts increase latency and cost nonlinearly.*
