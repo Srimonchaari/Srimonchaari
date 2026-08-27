@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-27
+
+> *LLM output quality degrades at the edges of the context window — place critical information at the start or end.*
+
+---
+
 ## 2026-08-26
 
 > *Grounding prevents hallucination. Every factual claim in a response should trace to a retrieved source.*
