@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-08-27 | Day 696 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-08-24 | Day 693 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-08-18 | Day 687 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
 | 2026-08-13 | Day 682 | FAISS index sharding: memory footprint reduced by 35% |
