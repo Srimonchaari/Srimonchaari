@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-08-28 | Day 697 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-08-27 | Day 696 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-08-24 | Day 693 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-08-18 | Day 687 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
