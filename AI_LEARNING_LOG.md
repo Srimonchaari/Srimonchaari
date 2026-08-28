@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-28
+
+> *Streaming responses reduce perceived latency even when total latency stays the same.*
+
+---
+
 ## 2026-08-27
 
 > *LLM output quality degrades at the edges of the context window — place critical information at the start or end.*
