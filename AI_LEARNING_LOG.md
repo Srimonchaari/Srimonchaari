@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-30
+
+> *Docker is the unit of reproducibility in modern MLOps.*
+
+---
+
 ## 2026-08-28
 
 > *Streaming responses reduce perceived latency even when total latency stays the same.*
