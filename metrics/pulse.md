@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-08-31 | Day 700 | Grafana dashboard live: cost-per-query visible to stakeholders |
 | 2026-08-29 | Day 698 | MLflow experiment tracking: 47 runs logged this sprint |
 | 2026-08-28 | Day 697 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-08-27 | Day 696 | FastAPI inference endpoint: p95 latency < 320ms under load |
