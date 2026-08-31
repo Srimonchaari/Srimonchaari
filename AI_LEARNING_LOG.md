@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-08-31
+
+> *Prometheus metrics answer what is happening. Logs answer why it happened.*
+
+---
+
 ## 2026-08-30
 
 > *Docker is the unit of reproducibility in modern MLOps.*
