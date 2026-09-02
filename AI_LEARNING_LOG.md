@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-02
+
+> *CI/CD for ML means testing data, model behavior, and deployment — not just code.*
+
+---
+
 ## 2026-09-01
 
 > *A Grafana dashboard nobody monitors is just decoration.*
