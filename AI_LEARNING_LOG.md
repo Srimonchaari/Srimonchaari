@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-03
+
+> *MLflow tracks experiments so you can reproduce the result that accidentally worked.*
+
+---
+
 ## 2026-09-02
 
 > *CI/CD for ML means testing data, model behavior, and deployment — not just code.*
