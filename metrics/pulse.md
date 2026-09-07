@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-09-07 | Day 707 | Docker compose stack: one-command deploy for full observability stack |
 | 2026-09-04 | Day 704 | Ollama local inference: zero external API calls for dev environment |
 | 2026-09-03 | Day 703 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
 | 2026-09-02 | Day 702 | Vector DB index rebuilt: query time dropped from 480ms to 95ms |
