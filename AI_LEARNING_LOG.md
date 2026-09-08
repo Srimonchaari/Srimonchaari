@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-08
+
+> *The p99 latency is the experience of your worst 1% of users — and often your loudest complainers.*
+
+---
+
 ## 2026-09-03
 
 > *MLflow tracks experiments so you can reproduce the result that accidentally worked.*
