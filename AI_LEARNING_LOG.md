@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-10
+
+> *A retrieval system with no reranker is leaving precision on the table.*
+
+---
+
 ## 2026-09-08
 
 > *The p99 latency is the experience of your worst 1% of users — and often your loudest complainers.*
