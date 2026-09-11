@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-11
+
+> *FAISS is fast but HNSW indexes scale better for approximate nearest neighbor at production volume.*
+
+---
+
 ## 2026-09-10
 
 > *A retrieval system with no reranker is leaving precision on the table.*
