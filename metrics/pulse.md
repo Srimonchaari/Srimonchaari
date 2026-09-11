@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-09-11 | Day 711 | Streaming response added: perceived latency cut by ~60% for users |
 | 2026-09-09 | Day 709 | Agentic tool-call success rate: 97.2% on 340 production traces |
 | 2026-09-07 | Day 707 | Docker compose stack: one-command deploy for full observability stack |
 | 2026-09-04 | Day 704 | Ollama local inference: zero external API calls for dev environment |
