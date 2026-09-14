@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-14
+
+> *Chunking with overlap prevents context fragmentation at chunk boundaries.*
+
+---
+
 ## 2026-09-11
 
 > *FAISS is fast but HNSW indexes scale better for approximate nearest neighbor at production volume.*
