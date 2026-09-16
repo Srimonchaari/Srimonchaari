@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-16
+
+> *LangGraph makes agent state explicit — that explicitness is what allows you to debug it.*
+
+---
+
 ## 2026-09-15
 
 > *Metadata filtering cuts retrieval search space before vector similarity — always add it.*
