@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-17
+
+> *Multi-agent systems fail at the handoff. Define the interface before the agents.*
+
+---
+
 ## 2026-09-16
 
 > *LangGraph makes agent state explicit — that explicitness is what allows you to debug it.*
