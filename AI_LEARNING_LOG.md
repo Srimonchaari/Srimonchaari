@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-21
+
+> *System prompts are not immutable — version-control them like code.*
+
+---
+
 ## 2026-09-18
 
 > *Tool call validation should happen on the schema, not on the model's output text.*
