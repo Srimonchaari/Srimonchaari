@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-09-21 | Day 721 | LLM token cost cut 28% with prompt compression techniques |
 | 2026-09-19 | Day 719 | NCF model: Precision@10 = 0.2567, beats published SOTA benchmark |
 | 2026-09-18 | Day 718 | SensorSpeak ingestion: 100K sensor readings/min, p95 < 40ms |
 | 2026-09-17 | Day 717 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-05-21 | Day 598 | SensorSpeak ingestion: 100K sensor readings/min, p95 < 40ms |
 | 2026-05-20 | Day 597 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
 | 2026-05-19 | Day 596 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
-| 2026-05-18 | Day 595 | LLM output structured with Pydantic: 0 parse errors in 500 calls |
