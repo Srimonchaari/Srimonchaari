@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-23
+
+> *Few-shot examples in a prompt are the fastest form of fine-tuning with no training cost.*
+
+---
+
 ## 2026-09-21
 
 > *System prompts are not immutable — version-control them like code.*
