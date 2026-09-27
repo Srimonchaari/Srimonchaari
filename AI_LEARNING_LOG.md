@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-27
+
+> *Constitutional AI replaces human labelers with a set of principles the model uses to self-critique.*
+
+---
+
 ## 2026-09-24
 
 > *Instruction tuning is supervised fine-tuning on (instruction, response) pairs — not magic.*
