@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-09-29
+
+> *Flash Attention rewrites the attention kernel to reduce memory usage by processing in blocks.*
+
+---
+
 ## 2026-09-27
 
 > *Constitutional AI replaces human labelers with a set of principles the model uses to self-critique.*
