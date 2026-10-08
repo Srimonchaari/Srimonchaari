@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-08
+
+> *Evaluation datasets leak into training data — always maintain a held-out test set you never publish.*
+
+---
+
 ## 2026-10-02
 
 > *Mixture of experts routes each token to a subset of parameters — more capacity, same inference cost.*
