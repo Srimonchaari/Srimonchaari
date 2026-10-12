@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-12
+
+> *ROUGE measures recall of n-gram overlap — useful for summarization, misleading for reasoning tasks.*
+
+---
+
 ## 2026-10-09
 
 > *A/B testing LLM outputs requires human preference labels, not just automated metrics.*
