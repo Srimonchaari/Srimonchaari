@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-13
+
+> *BERTScore uses contextual embeddings to measure semantic similarity between generated and reference text.*
+
+---
+
 ## 2026-10-12
 
 > *ROUGE measures recall of n-gram overlap — useful for summarization, misleading for reasoning tasks.*
