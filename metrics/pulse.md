@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-10-13 | Day 743 | CI pipeline added: lint + type-check + pytest on every PR |
 | 2026-10-12 | Day 742 | FAISS index sharding: memory footprint reduced by 35% |
 | 2026-10-09 | Day 739 | Agentic tool-call success rate: 97.2% on 340 production traces |
 | 2026-10-03 | Day 733 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-05-31 | Day 608 | MLflow experiment tracking: 47 runs logged this sprint |
 | 2026-05-30 | Day 607 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-05-29 | Day 606 | FastAPI inference endpoint: p95 latency < 320ms under load |
-| 2026-05-28 | Day 605 | Query rewriting reduced LLM hallucination rate by ~18% |
