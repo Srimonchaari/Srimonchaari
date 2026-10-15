@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-15
+
+> *Calibration means a model that says 70% confident should be right 70% of the time.*
+
+---
+
 ## 2026-10-13
 
 > *BERTScore uses contextual embeddings to measure semantic similarity between generated and reference text.*
