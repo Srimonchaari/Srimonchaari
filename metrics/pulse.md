@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-10-17 | Day 747 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
 | 2026-10-16 | Day 746 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
 | 2026-10-14 | Day 744 | RAG context window optimised: 3-chunk window beats 5-chunk by 6% F1 |
 | 2026-10-13 | Day 743 | CI pipeline added: lint + type-check + pytest on every PR |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-03 | Day 611 | LangGraph stateful agent handles 6-step MEMS diagnostic flow |
 | 2026-06-02 | Day 610 | Grafana dashboard live: cost-per-query visible to stakeholders |
 | 2026-06-01 | Day 609 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
-| 2026-05-31 | Day 608 | MLflow experiment tracking: 47 runs logged this sprint |
