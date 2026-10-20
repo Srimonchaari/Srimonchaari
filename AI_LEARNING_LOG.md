@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-20
+
+> *Adversarial prompting tests model robustness the same way penetration testing tests software.*
+
+---
+
 ## 2026-10-16
 
 > *Safety is not a post-deployment concern — it is an architectural constraint from day one.*
