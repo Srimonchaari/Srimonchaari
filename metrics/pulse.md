@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-10-21 | Day 751 | LLM token cost cut 28% with prompt compression techniques |
 | 2026-10-19 | Day 749 | NCF model: Precision@10 = 0.2567, beats published SOTA benchmark |
 | 2026-10-17 | Day 747 | Inference cache hit rate: 34% — saves ~€0.12/1K queries |
 | 2026-10-16 | Day 746 | Anomaly detection model: precision 0.91, recall 0.88 on held-out set |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-05 | Day 613 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
 | 2026-06-04 | Day 612 | Vector DB index rebuilt: query time dropped from 480ms to 95ms |
 | 2026-06-03 | Day 611 | LangGraph stateful agent handles 6-step MEMS diagnostic flow |
-| 2026-06-02 | Day 610 | Grafana dashboard live: cost-per-query visible to stakeholders |
