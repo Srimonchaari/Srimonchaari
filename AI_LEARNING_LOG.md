@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-21
+
+> *Data privacy in LLM systems requires knowing exactly what goes into the context window.*
+
+---
+
 ## 2026-10-20
 
 > *Adversarial prompting tests model robustness the same way penetration testing tests software.*
