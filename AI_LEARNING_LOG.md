@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-23
+
+> *Industrie 4.0 shifts manufacturing from reactive to predictive — LLMs are the interface layer.*
+
+---
+
 ## 2026-10-21
 
 > *Data privacy in LLM systems requires knowing exactly what goes into the context window.*
