@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-10-26
+
+> *MEMS sensors generate high-frequency signals — anomaly detection requires signal processing before LLM input.*
+
+---
+
 ## 2026-10-23
 
 > *Industrie 4.0 shifts manufacturing from reactive to predictive — LLMs are the interface layer.*
