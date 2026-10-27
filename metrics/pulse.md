@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-10-27 | Day 757 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-10-26 | Day 756 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-10-22 | Day 752 | Agentic workflow reduced manual MEMS classification time by 3h/day |
 | 2026-10-21 | Day 751 | LLM token cost cut 28% with prompt compression techniques |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-08 | Day 616 | pytest suite: 85 tests, 0 failures, 94% branch coverage |
 | 2026-06-07 | Day 615 | Sentence-BERT fine-tune: domain vocab coverage +23% on MEMS corpus |
 | 2026-06-06 | Day 614 | Ollama local inference: zero external API calls for dev environment |
-| 2026-06-05 | Day 613 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
