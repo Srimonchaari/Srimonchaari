@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-11-02 | Day 763 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
 | 2026-10-30 | Day 760 | Grafana dashboard live: cost-per-query visible to stakeholders |
 | 2026-10-29 | Day 759 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
 | 2026-10-28 | Day 758 | MLflow experiment tracking: 47 runs logged this sprint |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-12 | Day 620 | Prompt template versioning: 12 variants tracked, top-3 promoted |
 | 2026-06-11 | Day 619 | Agentic tool-call success rate: 97.2% on 340 production traces |
 | 2026-06-10 | Day 618 | p99 latency SLA met: 99.4% of requests under 500ms this week |
-| 2026-06-09 | Day 617 | Docker compose stack: one-command deploy for full observability stack |
