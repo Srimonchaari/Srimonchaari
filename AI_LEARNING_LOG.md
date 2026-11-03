@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-03
+
+> *The gap between simulation (Gazebo) and real deployment is where most robotics projects fail.*
+
+---
+
 ## 2026-10-30
 
 > *SLAM (Simultaneous Localization and Mapping) solves navigation without GPS — ORB-SLAM3 is state of the art.*
