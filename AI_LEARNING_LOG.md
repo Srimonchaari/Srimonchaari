@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-05
+
+> *Chrome Manifest V3 moves to service workers instead of background pages — offline-first design matters.*
+
+---
+
 ## 2026-11-03
 
 > *The gap between simulation (Gazebo) and real deployment is where most robotics projects fail.*
