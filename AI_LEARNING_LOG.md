@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-06
+
+> *A two-call LLM pattern (draft + critique) produces higher-quality output than a single generation.*
+
+---
+
 ## 2026-11-05
 
 > *Chrome Manifest V3 moves to service workers instead of background pages — offline-first design matters.*
