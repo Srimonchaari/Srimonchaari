@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-11-06 | Day 767 | Docker compose stack: one-command deploy for full observability stack |
 | 2026-11-05 | Day 766 | pytest suite: 85 tests, 0 failures, 94% branch coverage |
 | 2026-11-04 | Day 765 | Sentence-BERT fine-tune: domain vocab coverage +23% on MEMS corpus |
 | 2026-11-02 | Day 763 | Reranker added to RAG pipeline: NDCG@10 improved by 11% |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-15 | Day 623 | CI pipeline added: lint + type-check + pytest on every PR |
 | 2026-06-14 | Day 622 | FAISS index sharding: memory footprint reduced by 35% |
 | 2026-06-13 | Day 621 | Streaming response added: perceived latency cut by ~60% for users |
-| 2026-06-12 | Day 620 | Prompt template versioning: 12 variants tracked, top-3 promoted |
