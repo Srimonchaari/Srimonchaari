@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-10
+
+> *Deterministic traversal over prerequisite graphs produces reproducible learning sequences.*
+
+---
+
 ## 2026-11-06
 
 > *A two-call LLM pattern (draft + critique) produces higher-quality output than a single generation.*
