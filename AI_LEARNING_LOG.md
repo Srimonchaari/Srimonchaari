@@ -10,6 +10,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-11
+
+> *GitHub Actions runs on Ubuntu, macOS, and Windows — test your workflows on the target OS.*
+
+---
+
 ## 2026-11-10
 
 > *Deterministic traversal over prerequisite graphs produces reproducible learning sequences.*
