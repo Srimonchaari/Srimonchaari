@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-17
+
+> *Code review is the highest-leverage activity on an engineering team. Do it slowly.*
+
+---
+
 ## 2026-11-11
 
 > *GitHub Actions runs on Ubuntu, macOS, and Windows — test your workflows on the target OS.*
