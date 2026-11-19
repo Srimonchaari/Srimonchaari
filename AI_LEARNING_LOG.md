@@ -16,6 +16,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-19
+
+> *The simplest system that solves the problem is the right system. Complexity is a liability.*
+
+---
+
 ## 2026-11-18
 
 > *Technical debt is a loan with compounding interest. Pay it down before it compounds.*
