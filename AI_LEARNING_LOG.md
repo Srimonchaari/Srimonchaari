@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-23
+
+> *Hallucination is a retrieval failure, not a model failure. Fix the retrieval. — LLM engineering principle*
+
+---
+
 ## 2026-11-19
 
 > *The simplest system that solves the problem is the right system. Complexity is a liability.*
