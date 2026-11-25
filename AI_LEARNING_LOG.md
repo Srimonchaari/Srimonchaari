@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-25
+
+> *Language models are few-shot learners. — Brown et al., GPT-3, 2020*
+
+---
+
 ## 2026-11-24
 
 > *The best model is the one you can actually deploy and monitor. — MLOps axiom*
