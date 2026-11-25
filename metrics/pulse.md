@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-11-25 | Day 786 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-11-24 | Day 785 | Query rewriting reduced LLM hallucination rate by ~18% |
 | 2026-11-20 | Day 781 | LLM token cost cut 28% with prompt compression techniques |
 | 2026-11-19 | Day 780 | RAG pipeline latency reduced by 40% via chunk-size tuning |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-25 | Day 633 | Embedding model switch: +12% retrieval precision on internal docs |
 | 2026-06-24 | Day 632 | Agentic workflow reduced manual MEMS classification time by 3h/day |
 | 2026-06-23 | Day 631 | LLM token cost cut 28% with prompt compression techniques |
-| 2026-06-20 | Day 628 | SensorSpeak ingestion: 100K sensor readings/min, p95 < 40ms |
