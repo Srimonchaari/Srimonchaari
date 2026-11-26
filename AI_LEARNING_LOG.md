@@ -4,6 +4,12 @@ One note per day — updated automatically via GitHub Actions.
 
 ---
 
+## 2026-11-26
+
+> *Scaling laws suggest that larger models trained on more data are predictably better. — Kaplan et al., 2020*
+
+---
+
 ## 2026-11-25
 
 > *Language models are few-shot learners. — Brown et al., GPT-3, 2020*
