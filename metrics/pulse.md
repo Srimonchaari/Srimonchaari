@@ -4,6 +4,7 @@ Auto-updated via GitHub Actions.
 
 | Date | Day | Metric / Observation |
 |---|---|---|
+| 2026-11-28 | Day 789 | BM25 + dense hybrid retrieval: +7% top-5 accuracy vs dense-only |
 | 2026-11-27 | Day 788 | MLflow experiment tracking: 47 runs logged this sprint |
 | 2026-11-26 | Day 787 | Chunking strategy A/B test: semantic > fixed-size by 9% recall |
 | 2026-11-25 | Day 786 | FastAPI inference endpoint: p95 latency < 320ms under load |
@@ -93,4 +94,3 @@ Auto-updated via GitHub Actions.
 | 2026-06-28 | Day 636 | FastAPI inference endpoint: p95 latency < 320ms under load |
 | 2026-06-27 | Day 635 | Query rewriting reduced LLM hallucination rate by ~18% |
 | 2026-06-26 | Day 634 | Deployed Prometheus metrics for 4 GenAI API endpoints |
-| 2026-06-25 | Day 633 | Embedding model switch: +12% retrieval precision on internal docs |
